@@ -13,3 +13,11 @@
   > SSL Certificates: [Manage | View Only | Hidden]
 
 ```
+
+**Valiodation:**
+
+```
+- Login the user
+- See the WEbUI for proxymanager
+- You may not see/get all the options
+```
