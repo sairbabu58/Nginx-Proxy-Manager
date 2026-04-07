@@ -31,3 +31,6 @@ Note:
   Forward Domain: new.j2ctechnologies.com
   Http Code: 301 Moved permanently 
 ```
+```
+-> Access to old domain, it will reroute to new domain 
+```
