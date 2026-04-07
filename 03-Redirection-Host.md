@@ -29,5 +29,5 @@ Note:
   Domainname: old.j2ctechnologies.com
   Sceme: http
   Forward Domain: new.j2ctechnologies.com
-Http Code: 301 Moved permanently 
+  Http Code: 301 Moved permanently 
 ```
