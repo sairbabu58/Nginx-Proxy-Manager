@@ -6,7 +6,7 @@ Note:
   
 - Old url got changed and new URL is new-j2ctechnologies.com
   
-- If some will hit still to the old URL it will redirect to new URL 
+- If someone will hit to old URL, it will redirect to the new URL 
 
 ```
 -> old domain docker app running on http://old.j2ctechnologies.com:8082 (same host or diff host)
