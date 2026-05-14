@@ -1,9 +1,9 @@
 ## How to install Nginx Proxy Manager
 
 ```
-$ yum -y install eple-release
-$ yum -y install podman
-$ yum -y install podman-compose
+$ dnf -y install eple-release
+$ dnf -y install podman
+$ dnf -y install podman-compose
 
 ```
 
