@@ -3,7 +3,7 @@
 ```
 - Existing URL for Pi-Hole > https://pihole.cloud-lab.j2ctechnologies.com/admin 192.168.0.117
 - Existing URL for Proxmox > https://proxmox.cloud-lab.j2ctechnologies.com:8006 192.168.0.100
-- Existing URL for WebServer > https://proxmox.cloud-lab.j2ctechnologies.com:8080 192.168.0.157
+- Existing URL for WebServer > https://http.cloud-lab.j2ctechnologies.com:8080 192.168.0.157
 
 - Nginx proxy manager DNS name > http://proxy.cloud-lab.j2ctechnologies.com:81 192.168.0.150
 ```
